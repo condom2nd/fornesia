@@ -7,7 +7,7 @@
 203.194.112.119,2053,ID,First Cagayan Converge Data Center Inc
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
 172.232.237.112,2053,ID,Akamai Connected Cloud
-103.133.223.50,2096,ID,PT Cloud Teknologi Nusantara
+203.194.112.119,2053,ID,CV. Rumahweb Indonesia
 103.133.223.51,2096,ID,PT Cloud Teknologi Nusantara
 43.133.145.156,53136,ID,Shenzhen Tencent Computer Systems Company Limited
 172.232.239.175,587,ID,Akamai Technologies Inc
