@@ -1,4 +1,4 @@
-34.101.247.19,53681,ID,Google Cloud
+139.59.104.29,443,SG,Digitalocean
 8.215.196.18,587,ID,Alibaba
 36.95.152.58,12137,ID,PT Telkom Indonesia
 43.218.77.16,443,ID,Amazon.com
