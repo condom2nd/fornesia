@@ -2650,7 +2650,7 @@
 203.194.112.119,8443,ID,First Cagayan Converge Data Center Inc
 203.194.112.119,2053,ID,First Cagayan Converge Data Center Inc
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
-149.129.250.8:443,ID,Alibaba
+149.129.250.8,443,ID,Alibaba
 172.232.239.151,587,ID,Akamai Technologies Inc
 40.113.60.248,2053,IE,Microsoft Azure
 40.113.60.248,8443,IE,Microsoft Azure
