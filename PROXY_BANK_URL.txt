@@ -2644,7 +2644,7 @@
 5.182.38.183,443,HU,Pq Hosting Plus
 46.183.186.57,443,HU,Magyar Telekom
 77.91.72.82,443,HU,Pq Hosting Plus
-36.95.152.58,12137,ID,PT Telkom Indonesia
+34.101.86.59,443,ID,Google Asia Pasific Pte Ltd
 43.218.77.16,443,ID,Amazon.com
 43.218.77.16,1443,ID,Amazon.com
 203.194.112.119,8443,ID,First Cagayan Converge Data Center Inc
